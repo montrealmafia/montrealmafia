@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет всем 👋
 
 <!--
 **montrealmafia/montrealmafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
